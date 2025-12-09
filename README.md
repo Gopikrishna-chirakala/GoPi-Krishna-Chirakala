@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Explorer;Love+Building+Smart+and+Useful+Projects;Kabaddi+Analytics+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI+Explorer;Love+Building+Smart+and+Useful+Projects;" />
 </p>
 
 ---
