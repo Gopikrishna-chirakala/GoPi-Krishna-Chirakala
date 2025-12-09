@@ -1,6 +1,6 @@
 
 <!-- 🌟 PROFILE HEADER -->
-<h1 align="center">Hi, I'm Gopi Krishna 👋</h1>
+<h1 align="center">Hi, I'm GoPi Krishna 👋</h1>
 
 <p align="center">
   Final Year CSE Student · AI & MERN Enthusiast  
